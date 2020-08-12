@@ -1,6 +1,24 @@
-# CodeForces
-My solutions to some CodeForces Problems
-| #  | Problem                                                         | C++                                                   | Python                                                                          |
+# [CodeForces](https://codeforces.com/) 
+
+<p align="center">
+  <img src="https://assets.codeforces.com/users/kguseva/comments/cf.png">
+</p>
+
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://github.com/NvsYashwanth)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/NvsYashwanth/CodeForces)        ![](https://badgen.net/badge/Code/Python/blue?icon=https://simpleicons.org/icons/python.svg&labelColor=cyan&label)        ![](https://badgen.net/badge/Code/C++/blue?icon=https://simpleicons.org/icons/cplusplus.svg&labelColor=cyan&label)
+
+
+## Note :pushpin:
+* The table below summarizes this repo
+* Clicking on the problem name will redirect you to the codeforces official website.
+* For each problem corresponding solutions for `C++` and `Python` are mentioned as `Yes` or `No` indicating the availability of the solution in that specific language in the repository. Clicking on `Yes` for corresponding problem will take you to the repo link of problem solution.
+
+## Codes :heart:
+![](https://badgen.net/badge/TotalSums/25/blue?icon)
+
+
+| #  | Problem                                                         | C++ :muscle:                                          | Python :snake:                                                                  |
 |----|-----------------------------------------------------------------|-------------------------------------------------------|---------------------------------------------------------------------------------|
 | 1  | [Anton and Danik](https://codeforces.com/)                      | No                                                    | [Yes](./CodeForces%20python/Anton%20and%20Danik.py)                             |
 | 2  | [Bear and Big Brother](https://codeforces.com/)                 | No                                                    | [Yes](./CodeForces%20python/Bear%20and%20Big%20Brother.py)                      |
@@ -27,3 +45,15 @@ My solutions to some CodeForces Problems
 | 23 | [Word](https://codeforces.com/)                                 | No                                                    | [Yes](./CodeForces%20python/Word.py)                                            |
 | 24 | [Young physicist](https://codeforces.com/)                      | [Yes](./CodeForces%20cpp/Young%20physicist.cpp)       | [Yes](./CodeForces%20python/Young%20physicist.py)                               |
 | 25 | [Cards](https://codeforces.com/)                                | [Yes](./CodeForces%20cpp/Cards.cpp)                   | No                                                                              |
+
+## Contribution Guidlines :page_with_curl:
+### How to contribute? :eyes:
+1. Fork the repository
+2. Make the desired changes (add/delete/modify)
+3. Make a pull request
+
+### When to contribute? :eyes:
+1. If there is no solution to a problem in either `C++` or `Python` in the main branch
+2. If your solution to an existing problem is asymptotically faster than the one in the main branch
+3. If your algorithm has the same time complexity but with reduced code size. In such cases comment the original solution and make a pull request with your solution
+4. If your method of solving asymptotically slower then comment your solution and make a pull request
