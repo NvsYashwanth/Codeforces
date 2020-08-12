@@ -8,6 +8,7 @@
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/NvsYashwanth/CodeForces)        ![](https://badgen.net/badge/Code/Python/blue?icon=https://simpleicons.org/icons/python.svg&labelColor=cyan&label)        ![](https://badgen.net/badge/Code/C++/blue?icon=https://simpleicons.org/icons/cplusplus.svg&labelColor=cyan&label)
 
+## `PLEASE SCROLL TO THE BOTTOM OF THE PAGE TO READ THE CONTRIBUTION GUIDELINES` :zap:
 
 ## Note :pushpin:
 * The table below summarizes this repo
