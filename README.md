@@ -16,7 +16,7 @@
 * For each problem corresponding solutions for `C++` and `Python` are mentioned as `Yes` or `No` indicating the availability of the solution in that specific language in the repository. Clicking on `Yes` for corresponding problem will take you to the repo link of problem solution.
 
 ## Codes :heart:
-![](https://badgen.net/badge/TotalSums/25/blue?icon)
+![](https://badgen.net/badge/TotalSums/34/blue?icon)
 
 
 | #  | Problem                                                           | C++ :muscle:                                                                     | Python :snake:                                                                     |
@@ -45,16 +45,16 @@
 | 22 | [Remove smallest](https://codeforces.com/)                        | No                                                                               | [Yes](./CodeForces%20python/Remove%20smallest.py)                                  |
 | 23 | [Scarborough Fair](https://codeforces.com/)                       | [Yes](./CodeForces%20cpp/Scarborough%20Fair.cpp)                                 | [Yes](./CodeForces%20python/Scarborough%20Fair.py)                                 |
 | 24 | [Sereja and Dima](https://codeforces.com/)                        | No                                                                               | [Yes](./CodeForces%20python/Sereja%20and%20Dima.py)                                |
-| 25 | [Team](https://codeforces.com/)                                   | No                                                                               | [Yes](./CodeForces%20python/Team.py)                                               |
-| 26 | [Three indices](https://codeforces.com/)                          | [Yes](./CodeForces%20cpp/Three%20indices.cpp)                                    | [Yes](./CodeForces%20python/Three%20indices.py)                                    |
-| 27 | [Tokitsukaze and Enhancement](https://codeforces.com/)            | No                                                                               | [Yes](./CodeForces%20python/Tokitsukaze%20and%20Enhancement.py)                    |
-| 28 | [Vanya and Fence](https://codeforces.com/)                        | No                                                                               | [Yes](./CodeForces%20python/Vanya%20and%20Fence.py)                                |
-| 29 | [Vus the Cossack and a Contest](https://codeforces.com/)          | [Yes](./CodeForces%20cpp/Vus%20the%20Cossack%20and%20a%20Contest.cpp)            | [Yes](./CodeForces%20python/Vus%20the%20Cossack%20and%20a%20Contest.py)            |
-| 30 | [Word Capitalization](https://codeforces.com/)                    | No                                                                               | [Yes](./CodeForces%20python/Word%20Capitalization.py)                              |
-| 31 | [Word](https://codeforces.com/)                                   | No                                                                               | [Yes](./CodeForces%20python/Word.py)                                               |
-| 32 | [Young physicist](https://codeforces.com/)                        | [Yes](./CodeForces%20cpp/Young%20physicist.cpp)                                  | [Yes](./CodeForces%20python/Young%20physicist.py)                                  |
-| 33 | [Cards](https://codeforces.com/)                                  | [Yes](./CodeForces%20cpp/Cards.cpp)                                              | No                                                                                 |
-
+| 25 | [Substring Removal Game](https://codeforces.com/)                 | No                                                                               | [Yes](./CodeForces%20python/Substring%20Removal%20Game.py)                         |
+| 26 | [Team](https://codeforces.com/)                                   | No                                                                               | [Yes](./CodeForces%20python/Team.py)                                               |
+| 27 | [Three indices](https://codeforces.com/)                          | [Yes](./CodeForces%20cpp/Three%20indices.cpp)                                    | [Yes](./CodeForces%20python/Three%20indices.py)                                    |
+| 28 | [Tokitsukaze and Enhancement](https://codeforces.com/)            | No                                                                               | [Yes](./CodeForces%20python/Tokitsukaze%20and%20Enhancement.py)                    |
+| 29 | [Vanya and Fence](https://codeforces.com/)                        | No                                                                               | [Yes](./CodeForces%20python/Vanya%20and%20Fence.py)                                |
+| 30 | [Vus the Cossack and a Contest](https://codeforces.com/)          | [Yes](./CodeForces%20cpp/Vus%20the%20Cossack%20and%20a%20Contest.cpp)            | [Yes](./CodeForces%20python/Vus%20the%20Cossack%20and%20a%20Contest.py)            |
+| 31 | [Word Capitalization](https://codeforces.com/)                    | No                                                                               | [Yes](./CodeForces%20python/Word%20Capitalization.py)                              |
+| 32 | [Word](https://codeforces.com/)                                   | No                                                                               | [Yes](./CodeForces%20python/Word.py)                                               |
+| 33 | [Young physicist](https://codeforces.com/)                        | [Yes](./CodeForces%20cpp/Young%20physicist.cpp)                                  | [Yes](./CodeForces%20python/Young%20physicist.py)                                  |
+| 34 | [Cards](https://codeforces.com/)                                  | [Yes](./CodeForces%20cpp/Cards.cpp)                                              | No                                                                                 |
 ## Contribution Guidlines :page_with_curl:
 ### How to contribute? :eyes:
 1. Fork the repository
