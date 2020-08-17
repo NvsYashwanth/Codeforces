@@ -16,7 +16,7 @@
 * For each problem corresponding solutions for `C++` and `Python` are mentioned as `Yes` or `No` indicating the availability of the solution in that specific language in the repository. Clicking on `Yes` for corresponding problem will take you to the repo link of problem solution.
 
 ## Codes :heart:
-![](https://badgen.net/badge/TotalSums/41/blue?icon)
+![](https://badgen.net/badge/TotalSums/46/blue?icon)
 
 | #  | Problem                                                           | C++ :muscle:                                                                     | Python :snake:                                                                     |
 |----|-------------------------------------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
